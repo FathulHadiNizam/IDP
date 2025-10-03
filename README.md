@@ -1,6 +1,7 @@
 # Integrated Design Project – Scooter Lawn Mower (Group E + Group G)
 
 This repository documents the Integrated Design Project (IDP) carried out by **Group E + Group G**, consisting of 10 members under the supervision of **Prof. Madya Dr. Mohd Juzaila Bin Abd. Latif**. I, **Muhammad Fathul Hadi** from Group E, served as the **Team Leader** for this project. The project focused on the design, development, and fabrication of a **Scooter Lawn Mower**, aiming to combine user mobility, ergonomics, and cutting efficiency into one practical prototype.
+https://idp-portfolio.webnode.page/
 
 ---
 
